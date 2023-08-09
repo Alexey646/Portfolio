@@ -2,6 +2,7 @@
 
 [HTML](https://github.com/Alexey646/Portfolio/blob/main/Real_estate_SPB/Real_estate_SPB.html)
 [ipynd](https://github.com/Alexey646/Portfolio/blob/main/Real_estate_SPB/Real_estate_SPB.ipynb)
+[Dashboard in Tableau](https://public.tableau.com/app/profile/alexey.titov/viz/__16882381200880/sheet19)
 
 ## Описание проекта
 В нашем распоряжении данные сервиса Яндекс.Недвижимость — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктов за несколько лет. Нужно научиться определять рыночную стоимость объектов недвижимости. Наша задача — установить параметры. Это позволит построить автоматизированную систему: она отследит аномалии и мошенническую деятельность. 
@@ -12,6 +13,7 @@
 * Pandas
 * Numpy
 * Matplotlib
+* Tableau
   
 ## Краткий вывод
 Фактор удаленности от центра является самым существенным из тех, что влияют на цену недвижимости.
